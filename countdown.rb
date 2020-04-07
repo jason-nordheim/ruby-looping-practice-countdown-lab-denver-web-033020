@@ -1,6 +1,4 @@
 #write your code here
-require time
-
 def countdown n
   until n == 0
     puts "#{n} SECOND(S)!"
